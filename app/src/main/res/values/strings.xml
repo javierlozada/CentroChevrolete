@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CentroChevrolete</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">No tienes cuenta?, </string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Unirse</string>
+    <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">BCD 265</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard">4 dias</string>
+    <string name="likenumbercard_card">2 Inventarios</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_profile">Autos</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_word">Me Gusta</string>
+    <string name="tittleimagedetail">\"Veces en este mes\"</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae bibendum sapien. Quisque est augue, tristique vitae vulputate non, tristique eu ante. Duis mattis, nisl et laoreet placerat, lorem tortor consectetur risus, vitae iaculis ante enim in neque. Nunc sed eros vitae nisi aliquet tincidunt. Phasellus viverra sagittis dui nec convallis. Aliquam sollicitudin dui id tristique tempor. Praesent dui dolor, tempor id euismod in, gravida et ante. Morbi ullamcorper eleifend nibh, ut placerat urna molestie et. Nam at eleifend augue, a dapibus nisl. Maecenas porta diam massa, quis lacinia ipsum molestie vitae. Duis ut vulputate tortor, eget mollis eros. Morbi dignissim augue sed nisl egestas condimentum. Nullam pulvinar interdum scelerisque. Aenean vehicula tincidunt vestibulum. Nam vel nisi nisi</string>
+</resources>
